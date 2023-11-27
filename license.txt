@@ -1,0 +1,19 @@
+This program is an implementation in PHP of the Generalized Method for 
+Adaptive Randomization in Trials algorythm described by Russel.
+
+Author: Jean-philippe GIOT
+Licence: GPL, unless stated on first comment of a script
+
+References 
+
+Russell D, Hoare ZS, Whitaker R, Whitaker CJ, Russell IT. Generalized method
+for adaptive randomization in clinical trials. Stat Med. 2011 Apr
+30;30(9):922-34. 
+doi: 10.1002/sim.4175. 
+PubMed PMID: 21284014
+
+Hoare ZS, Whitaker CJ, Whitaker R. Introduction to a generalized method for
+adaptive randomization in trials. Trials. 2013 Jan 17;14:19. 
+doi: 10.1186/1745-6215-14-19. 
+PubMed PMID: 23324166
+PubMed Central PMCID: PMC3554542
